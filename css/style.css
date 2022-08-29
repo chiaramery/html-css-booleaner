@@ -45,12 +45,12 @@ h1 {
 main p span{
     background-color: rgba(255, 255, 0, 0.7);
 }
+
+/* tabella */
 table{
     border-collapse: collapse;
     width: 100%;
     padding-right: 20px;
-
-
 }
 .button {
     background-color: rgb(1, 179, 244);
@@ -74,3 +74,24 @@ th{
 td{
     width: 50px;
 }
+/* FOOTER */
+
+.text{
+    color: white;
+}
+
+.item{
+    background-image: url("/Users/filippovite/Applications/classe73/html-css-booleaner/img/monitor.jpg");
+    height: 200px;
+    width: 300px;
+}
+.item1{
+    background-image: url("/Users/filippovite/Applications/classe73/html-css-booleaner/img/graph.jpg");
+    height: 200px;
+    width: 300px;
+}
+
+#container{
+    text-align: center;
+}
+
