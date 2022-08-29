@@ -5,10 +5,15 @@
     box-sizing: 0;
 }
 
+/* COMMON */
+html{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 /* HEADER */
 header{
-    background-color: cornflowerblue;
-    height: 150px;
+    background-color: #6397d0;
+    height: 125px;
     background-image: url("/Users/filippovite/Applications/classe73/html-css-booleaner/img/pattern.png");
 }
 
@@ -16,5 +21,19 @@ header{
     width: 300px;
     height: 75px;
     padding-top: 50px;
-    padding-left: 5px;
+    padding-left: 5px; 
 }
+
+/* MAIN */
+main{
+    margin-left: 5px;
+}
+ main section span{
+    color: #6397d0;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+
