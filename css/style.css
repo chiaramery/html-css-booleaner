@@ -1,7 +1,7 @@
 /* RESET */
 * {
     margin: 0;
-    box-sizing: 0;
+    box-sizing: border-box;
 }
 
 /* COMMON */
@@ -13,14 +13,14 @@ html{
 header{
     background-color: #6397d0;
     height: 125px;
-    background-image: url("/Users/filippovite/Applications/classe73/html-css-booleaner/img/pattern.png");
+    background-image: url("../img/pattern.png");
 }
 
 #logo {
     width: 300px;
-    height: 75px;
+    height: 60px;
     padding-top: 50px;
-    padding-left: 5px; 
+    padding-left: 5px;
 }
 
 /* MAIN */
@@ -81,12 +81,12 @@ td{
 }
 
 .item{
-    background-image: url("/Users/filippovite/Applications/classe73/html-css-booleaner/img/monitor.jpg");
+    background-image: url("../img/monitor.jpg");
     height: 200px;
     width: 300px;
 }
 .item1{
-    background-image: url("/Users/filippovite/Applications/classe73/html-css-booleaner/img/graph.jpg");
+    background-image: url("../img/graph.jpg");
     height: 200px;
     width: 300px;
 }
